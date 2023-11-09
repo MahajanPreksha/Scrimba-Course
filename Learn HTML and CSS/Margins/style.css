@@ -1,0 +1,16 @@
+body{
+    margin:0;
+}
+.orange{
+    height: 100px;
+    background-color: orange;
+    /* margin-bottom: 100px; */
+}
+.white{
+    height: 100px;
+    background-color: white;
+}
+.green{
+    height: 100px;
+    background-color: green;
+}

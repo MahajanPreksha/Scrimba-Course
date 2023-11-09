@@ -1,0 +1,12 @@
+.main{
+    margin-top: 100px;
+}
+.image{
+    margin-bottom: 20px;
+    display: block;
+    width: 300px;
+}
+.input-field{
+    display: block;
+    width: 400px;
+}
