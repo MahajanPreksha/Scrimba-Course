@@ -1,12 +1,46 @@
-.main{
-    margin-top: 100px;
+.main {
+  margin-top: 100px;
+  /* text-align: center; */
 }
-.image{
-    margin-bottom: 20px;
-    display: block;
-    width: 300px;
+.image {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  display: block;
+  width: 300px;
 }
-.input-field{
-    display: block;
-    width: 400px;
+.input-field {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 400px;
+  line-height: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
+.btn {
+  margin-top: 30px;
+  /* display: block; */
+  margin-left: 4px;
+  margin-right: 4px;
+  background: #dfe1e5;
+  border-radius: 4px;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 14px;
+}
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.para {
+  text-align: center;
+  margin-top: 20px;
 }
