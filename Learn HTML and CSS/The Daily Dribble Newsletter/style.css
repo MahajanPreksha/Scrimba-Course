@@ -1,36 +1,36 @@
-body{
-    text-align: center;
+body {
+  text-align: center;
 }
 img {
-    width: 380px;
+  width: 380px;
 }
 button {
-    width: 250px;
-    margin-top: 10px;
-    color: white;
-    background: #121212;
-    border: 3px solid #121212;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    font-weight: bold;
+  width: 250px;
+  margin-top: 10px;
+  color: white;
+  background: #121212;
+  border: 3px solid #121212;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
 }
-input{
-    width: 185px;
-    margin-top: 10px;
-    color: white;
-    background: #ffffff;
-    border: 3px solid #121212;
-    padding-top: 10px;
-    padding-right: 30px;
-    padding-left: 30px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-weight: bold;
+input {
+  width: 185px;
+  margin-top: 10px;
+  color: white;
+  background: #ffffff;
+  border: 3px solid #121212;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
 }
-.para{
-    margin-top: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 380px;
-    text-align: justify;
+.para {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 380px;
+  text-align: justify;
 }
