@@ -1,0 +1,14 @@
+div {
+  text-align: center;
+  color: white;
+  margin: 5px;
+  padding: 25px 0;
+  background: #e5383b;
+  font-size: 30px;
+  font-weight: bold;
+}
+div:hover {
+  background: #ba181b;
+  font-size: 40px;
+  background-image: url("https://img.freepik.com/premium-photo/ai-generated-many-colors-eyes-photos-illustration-multicolored-female-eye-with-dripping_812649-300.jpg");
+}
