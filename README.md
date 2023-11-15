@@ -1,2 +1,3 @@
 # Scrimba-Course
-Learn HTML &amp; CSS
+1. Learn HTML &amp; CSS
+2. Learn JavaScript
