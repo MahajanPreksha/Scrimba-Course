@@ -54,12 +54,52 @@
 // let myGreeting = greeting + name
 // console.log(myGreeting)
 
-let name = 42
-let greeting = "Hi, my name is "
-let myGreeting = greeting + name
-console.log(myGreeting)
+// let name = 42
+// let greeting = "Hi, my name is "
+// let myGreeting = greeting + name
+// console.log(myGreeting)
 
-let points = 4
-let bonusPoints = "10"
-let totalPoints = points + bonusPoints
-console.log(totalPoints)
+// let points = 4
+// let bonusPoints = "10"
+// let totalPoints = points + bonusPoints
+// console.log(totalPoints)
+
+// let firstName = "Preksha", lastName = "Mahajan"
+// let fullName = firstName + " " + lastName
+// console.log(fullName)
+
+// let name = "Linda", greeting = "Hi there"
+// function greetLinda(){
+//     console.log(greeting + ", " + name + "!")
+// }
+// greetLinda()
+
+// let myPoints = 3
+// function add3Points(){
+//     myPoints +=3
+// }
+// function remove1Point(){
+//     myPoints -=1
+// }
+// add3Points()
+// remove1Point()
+// console.log(myPoints)
+
+// let age = 22
+// if(age<21){
+//     console.log("You can't enter the club!")
+// }
+// else{
+//     console.log("Welcome!")
+// }
+
+// let age = 100
+// if(age<100){
+//     console.log("Not eligible")
+// }
+// else if(age===100){
+//     console.log("Here is your birthday card from the King!")
+// }
+// else{
+//     console.log("Not eligible, you have already got one!")
+// }
